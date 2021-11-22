@@ -1,0 +1,18 @@
+<test-case id='0-1001' name='SC001_AddDifferentProductsToWishlist' fullname='CodilityTest.Steps.CodilityTestScripts.SC001_AddDifferentProductsToWishlist' methodname='SC001_AddDifferentProductsToWishlist' classname='CodilityTest.Steps.CodilityTestScripts' runstate='Runnable' seed='916028163' result='Passed' start-time='2021-11-22T20:36:06.9231211Z' end-time='2021-11-22T20:37:11.5511539Z' duration='64.627961' asserts='8' parentId='0-1000'>
+ <output>
+<![CDATA[
+[INFO]:Browser [chrome] launched with URL [https://testscriptdemo.com/]
+[PASS]:Home Page validation successfull
+[PASS]:Element 'Clothing' is clicked
+[PASS]:Page Title are equal
+[PASS]:Selected Category Title [CLOTHING] are equal
+[PASS]:Button [AddToCart ] is clicked for [Black trousers]
+[PASS]:Button [AddToCart ] is clicked for [Single Shirt]
+[PASS]:Button [AddToCart ] is clicked for [Bikini]
+[PASS]:Button [AddToCart ] is clicked for [Hard top]
+[PASS]:Header Icon [CART] is clicked
+[PASS]:Selected Category Title [CART] are equal
+[PASS]:Products are present in cart list
+]]>
+ </output>
+</test-case>
