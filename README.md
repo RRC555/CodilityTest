@@ -20,7 +20,7 @@ Attached Results Screenhot and .XML log file for quick reference.
 
 > Selenium With C#
 
-> NUnit, please note:- No External reporting tool used. Have'nt said that 3rd party tool (like Extend Report) easily configured.
+> NUnit, please note:- No External reporting tool used. Have'nt said that 3rd party tool (like Extend Report) easily configurable.
 
 **Execution**
 
